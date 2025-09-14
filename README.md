@@ -14,3 +14,29 @@ A professional-grade password security analysis tool built with Python. Detects 
 ```bash
 python3 password_checker.py
 ```
+
+## 📸 Demo
+
+### Weak Password Detection
+
+### Medium Strength Feedback
+
+### Perfect Score
+## 📸 Demo
+
+### Weak Password Detection  
+![Blocked Common Password](demo/weak-password.png)
+
+### Medium Strength Feedback
+![Medium Strength](demo/medium-password.png)
+
+### Perfect Score  
+![Excellent Password](demo/strong-password.png)
+### Weak Password Detection  
+![Blocked Common Password](demo/weak-password.png)
+
+### Medium Strength Feedback
+![Medium Strength](demo/medium-password.png)
+
+### Perfect Score  
+![Excellent Password](demo/strong-password.png)
